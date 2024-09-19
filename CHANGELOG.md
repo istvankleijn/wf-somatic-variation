@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v1.4.0-1]
+
+### Changed
+- Enabled use of workflow downstream of v4.3.0 basecalling models
+
 ## [v1.4.0]
 ### Added
 - BED files for the VNTR regions in hg19/hg38 from [Severus](https://github.com/KolmogorovLab/Severus/tree/main/vntrs).
